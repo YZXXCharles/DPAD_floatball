@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fec8aa7514515917d5bbf15fa2e74d412b140257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_853cf063d34293790bbf2ad086f6ec3fd75b8dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_36c8aca1f166a903b31f01c22d57a7ee59ff3569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_dcf09b9475c74db28b276587868220f0eb45b5cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_d51c1ad2e44dc9ac26e11b07c5e49c77da2841b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f8060724f2a918c149daa7fcc1314cb4541cf520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f505598cbfc9d9c6ba8a8058d9d905f8ed8b840c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_5a3e1e176e79afc6b9ce303a7d6d880c206e9cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ac6dde48c2136e84aab34e88edff84819badde07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9d217cce7741a0e74e55b0bfbdc56a950a222a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_66c6580b6cedba064caf34c4a14126fd9f28abc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2f647e62b1336ffadcf2cd8751b2c174d53a2a54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_201ac9d2fea931d1654af626ead7e19e6b4eb25a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_95846bfdcaac03cc627bb97fd24f9e8a84438cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\xinchenxu\Downloads\FloatBall-master\FloatBall-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_321f157dcb382c93f03c4ef3fd6b931690243267.jar" />
+    </item>
+
+</items>
