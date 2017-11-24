@@ -1,5 +1,11 @@
+需要ROOT权限
+
 点击为DPAD_CENTER
+
 向左滑DPAD_LEFT
+
 向右滑DPAD_RIGHT
+
 向下滑DPAD_DOWN
+
 向上滑DPAD_UP
